@@ -11,6 +11,6 @@ Além disso, deve-se ter o Selenium WebDriver instalado. Para instalar, vá no s
 `pip install -U selenium`
 
 Possíveis atualizações:
-- [ ] Fazer para outros browsers
+- [X] Fazer para outros browsers
 - [ ] Colocar opção para selecionar o browser
 - [ ] Adicionar roteiros do Shrek 2 e Shrek Terceiro
